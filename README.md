@@ -25,7 +25,7 @@ If you'd like to run this project locally or contribute to its development, foll
 1. **Clone the Repository:**
 
    ```
-   git clone https://github.com/your-username/add-to-cart.git
+   git clone https://github.com/efrvame/add-to-cart.git
    ```
 
 2. **Navigate to the Project Directory:**
